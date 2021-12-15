@@ -23,9 +23,9 @@ Ingeniero en Computación Gráfica
                <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E"> 
                
 - 🛢 &nbsp;    <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white">  |
-               <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"> 
-<!--                <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> |
-               <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> -->
+               <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"> |
+               <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase"> 
+<!--                <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> -->
 
 
 - 🔧 &nbsp;   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white">  |
