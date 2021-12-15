@@ -2,9 +2,9 @@
 
 <hr>
 
-<center>
-<p>Ingeniero en Computación Gráfica</p>
-</center>
+<p align="center">
+Ingeniero en Computación Gráfica
+</p>
 
 
 
