@@ -34,6 +34,7 @@ Ingeniero en Computación Gráfica
               <img src="https://img.shields.io/badge/pycharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green">  |
               <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=fflat&logo=jupyter&logoColor=white">  |
               <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=flat&logo=Eclipse&logoColor=white">  |
+              <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flatogo=anaconda&logoColor=white">  |
               <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white">  
 
 <!-- - Android Studio | PyCharm | Visual Studio code | Eclipse | Git -->
@@ -44,6 +45,12 @@ Ingeniero en Computación Gráfica
               <img src="ttps://aleen42.github.io/badges/src/dreamweaver.svg">
               <img src="https://aleen42.github.io/badges/src/after_effects.svg">
               <img src="https://aleen42.github.io/badges/src/premiere.svg">
+              <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6">
+              <img src="https://img.shields.io/badge/Adobe%20InDesign-49021F?style=flatogo=adobeindesign&logoColor=white">
+              <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white">
+              
+              
+              
 
 - 🖥 &nbsp;    <img src="https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white">
               <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat&logo=unrealengine&logoColor=white">
