@@ -12,24 +12,26 @@ Desarrollador y Diseñador Gráfico apasionado por combinar estás dos áreas cr
 
 
 
-<h3>🛠Skills:</h3>
+<h3>🛠Lenguajes:</h3>
 
 - 💻 &nbsp;    <img src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white"> 
                <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"> 
                <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"> 
                <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"> 
                
+<h3>🌐Web:</h3>               
 - 🌐 &nbsp;    <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white"> 
                <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
                <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">
                <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E"> 
                
+<h3>🛢Bases de Datos:</h3>               
 - 🛢 &nbsp;    <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"> 
                <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"> 
                <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase"> 
 <!--                <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> -->
 
-
+<h3>🔧 Herramientas:</h3> 
 - 🔧 &nbsp;   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white">
               <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white">
               <img src="https://img.shields.io/badge/webstorm-143?style=flat&logo=webstorm&logoColor=white&color=black">
