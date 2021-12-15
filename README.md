@@ -8,7 +8,7 @@ Ingeniero en Computación Gráfica
 <!-- Your badges -->
 [![Linkedin](https://img.shields.io/badge/-JuanCuaycal-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/juan-cuaycal/)
 
-[![Gmail](https://img.shields.io/badge/-juancuaycal-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:juancuaycal@gmail.com)
+[![Gmail](https://img.shields.io/badge/-JuanCuaycal-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:juancuaycal@gmail.com)
 
 <h3>🛠Tecnologías</h3>
 
