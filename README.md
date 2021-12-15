@@ -18,7 +18,7 @@
 
 <h3>🛠Tecnologías</h3>
 
-- 💻 &nbsp; Python  | Java | C# | PHP 
+- 💻 &nbsp; Python  | https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white | C# | PHP 
 - 🌐 &nbsp; Android | HTML | CSS | JavaScript | Bootstrap 
 - 🛢 &nbsp; MySQL | Firebase | Xampp
 - 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
