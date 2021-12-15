@@ -11,7 +11,7 @@ Ingeniero en Computación Gráfica
 - 🌐 &nbsp; Android | HTML | CSS | JavaScript | Bootstrap 
 - 🛢 &nbsp; MySQL | Firebase | Xampp
 - 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
-- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot | XD | InDesign | After Effects | Lightroom | Substance Painter 
+- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot | Dreamweaver | InDesign | After Effects | Lightroom | Substance Painter 
 
 <br>
 
