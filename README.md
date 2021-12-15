@@ -12,29 +12,29 @@ Ingeniero en Computación Gráfica
 
 <h3>🛠Tecnologías</h3>
 
-- 💻 &nbsp;    <img src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white"> |
-               <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"> | 
-               <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"> | 
+- 💻 &nbsp;    <img src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white"> 
+               <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"> 
+               <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"> 
                <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"> 
                
-- 🌐 &nbsp;    <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white">  |
-               <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">  | 
-               <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">  | 
+- 🌐 &nbsp;    <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white"> 
+               <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">  
+               <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">   
                <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E"> 
                
-- 🛢 &nbsp;    <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white">  |
-               <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"> |
+- 🛢 &nbsp;    <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"> 
+               <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"> 
                <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase"> 
 <!--                <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> -->
 
 
-- 🔧 &nbsp;   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white">  |
-              <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white">  |
-              <img src="https://img.shields.io/badge/webstorm-143?style=flat&logo=webstorm&logoColor=white&color=black">  |
-              <img src="https://img.shields.io/badge/pycharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green">  |
-              <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=fflat&logo=jupyter&logoColor=white">  |
-              <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=flat&logo=Eclipse&logoColor=white">  |
-              <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flatogo=anaconda&logoColor=white">  |
+- 🔧 &nbsp;   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white">  
+              <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white">  
+              <img src="https://img.shields.io/badge/webstorm-143?style=flat&logo=webstorm&logoColor=white&color=black">  
+              <img src="https://img.shields.io/badge/pycharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green">  
+              <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=fflat&logo=jupyter&logoColor=white">  
+              <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=flat&logo=Eclipse&logoColor=white">  
+              <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flatogo=anaconda&logoColor=white">  
               <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white">  
 
 <!-- - Android Studio | PyCharm | Visual Studio code | Eclipse | Git -->
@@ -52,7 +52,7 @@ Ingeniero en Computación Gráfica
               
               
 
-- 🖥 &nbsp;    <img src="https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white">
+- 🚀 &nbsp;    <img src="https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white">
               <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat&logo=unrealengine&logoColor=white">
 
 
