@@ -2,7 +2,10 @@
 
 <hr>
 
+<center>
 <p>Ingeniero en Computación Gráfica</p>
+</center>
+
 
 
 <!-- Your badges -->
