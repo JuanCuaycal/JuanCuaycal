@@ -77,5 +77,5 @@ Desarrollador y Diseñador Gráfico apasionado por combinar estás dos áreas cr
 <!-- -[Página Web](https://juan-cuaycal.web.app/) -->
 
 <a href="https://www.linkedin.com/in/juan-cuaycal/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
-<a href="juancuaycal@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a>
+<a href="mailto:juancuaycal@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a>
 <a href="https://juan-cuaycal.web.app/"><img src="https://img.shields.io/badge/-WebSite-black?style=flat&logo=Website&logoColor=black"></a>
