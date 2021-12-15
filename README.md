@@ -32,9 +32,9 @@ Desarrollador y Diseñador Gráfico apasionado por combinar estás dos áreas cr
                <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase"> 
 <!--                <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> -->
 
-<!-- <h3>🔧 Herramientas:</h3>  -->
+<h3>🔧 Herramientas:</h3> 
 -🔧 Herramientas:
-- 🔧 &nbsp;   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white">
+- &nbsp;   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white">
               <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white">
               <img src="https://img.shields.io/badge/webstorm-143?style=flat&logo=webstorm&logoColor=white&color=black">
               <img src="https://img.shields.io/badge/pycharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green">
