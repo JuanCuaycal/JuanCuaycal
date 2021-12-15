@@ -1,16 +1,16 @@
-### Hola!, soy Juan 👋
+### Hola!, mi nombre es Juan 👋
 
 <hr>
 
 <p align="center">
-Ingeniero en Computación Gráfica
+Desarrollador y Diseñador Gráfico apasionado por combinar estás dos áreas creativas!
 </p>
 
 
 
 
 
-<h3>🛠Tecnologías</h3>
+<h3>🛠Skills:</h3>
 
 - 💻 &nbsp;    <img src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white"> 
                <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"> 
