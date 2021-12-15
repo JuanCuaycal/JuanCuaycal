@@ -1,9 +1,11 @@
-### Hola!, mi nombre es Juan 👋
+<p align="center">
+Hola!, mi nombre es Juan 👋
+</p> 
 
 <hr>
 
 <p align="center">
-### Desarrollador y Diseñador Gráfico apasionado por combinar estás dos áreas creativas!
+Desarrollador y Diseñador Gráfico apasionado por combinar estás dos áreas creativas!
 </p>
 
 
