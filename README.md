@@ -8,7 +8,7 @@ Ingeniero en Computación Gráfica
 <!-- Your badges -->
 [![Linkedin](https://img.shields.io/badge/-JuanCuaycal-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/juan-cuaycal/)
 [![Linkedin](https://img.shields.io/badge/-JuanCuaycal-blue?style=flat&logo=Facebook&logoColor=white)](https://www.linkedin.com/in/juan-cuaycal/)
-[![Linkedin](https://img.shields.io/badge/-JuanCuaycal-blue?style=flat&logo=Website&logoColor=black)](https://www.linkedin.com/in/juan-cuaycal/)
+[![Linkedin](https://img.shields.io/badge/-WebSite-black?style=flat&logo=Website&logoColor=black)](https://juan-cuaycal.web.app/)
 
 [![Gmail](https://img.shields.io/badge/-JuanCuaycal-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:juancuaycal@gmail.com)
 
