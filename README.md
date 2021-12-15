@@ -26,8 +26,20 @@ Ingeniero en Computación Gráfica
                <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> 
 <!--                <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> |
                <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> -->
+
+
 - 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
-- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot | Dreamweaver | InDesign | After Effects | Lightroom | Substance Painter 
+
+
+- 🖥 &nbsp;   <img src="https://aleen42.github.io/badges/src/photoshop.svg">
+              <img src="https://aleen42.github.io/badges/src/illustrator.svg">
+              <img src="ttps://aleen42.github.io/badges/src/dreamweaver.svg">
+              <img src="https://aleen42.github.io/badges/src/after_effects.svg">
+              <img src="https://aleen42.github.io/badges/src/premiere.svg">
+
+
+
+Adobe Xd | Illustrator | Photoshop | OpenShot | Dreamweaver | InDesign | After Effects | Lightroom | Substance Painter 
 
 <br>
 
