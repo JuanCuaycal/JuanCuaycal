@@ -8,13 +8,7 @@
 
 
 
-<!-- Your badges -->
-[![Linkedin](https://img.shields.io/badge/-JuanCuaycal-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/juan-cuaycal/)
-<!-- [![Linkedin](https://img.shields.io/badge/-JuanCuaycal-blue?style=flat&logo=Facebook&logoColor=white)](https://www.linkedin.com/in/juan-cuaycal/) -->
 
-[![Gmail](https://img.shields.io/badge/-JuanCuaycal-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:juancuaycal@gmail.com)
-
-[![Linkedin](https://img.shields.io/badge/-WebSite-black?style=flat&logo=Website&logoColor=black)](https://juan-cuaycal.web.app/)
 
 <h3>🛠Tecnologías</h3>
 
@@ -39,7 +33,16 @@
 
 ### Sigueme:
 
--[Página Web](https://juan-cuaycal.web.app/)
 
+<!-- Your badges -->
+<!-- [![Linkedin](https://img.shields.io/badge/-JuanCuaycal-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/juan-cuaycal/)
+<!-- [![Linkedin](https://img.shields.io/badge/-JuanCuaycal-blue?style=flat&logo=Facebook&logoColor=white)](https://www.linkedin.com/in/juan-cuaycal/) -->
 
+<!-- [![Gmail](https://img.shields.io/badge/-JuanCuaycal-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:juancuaycal@gmail.com) -->
 
+<!-- [![Linkedin](https://img.shields.io/badge/-WebSite-black?style=flat&logo=Website&logoColor=black)](https://juan-cuaycal.web.app/) -->
+
+<!-- -[Página Web](https://juan-cuaycal.web.app/) -->
+
+<a href="https://www.linkedin.com/in/juan-cuaycal/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="juancuaycal@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
