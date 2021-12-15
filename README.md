@@ -28,7 +28,14 @@ Ingeniero en Computación Gráfica
                <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> -->
 
 
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
+- 🔧 &nbsp;   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white">  |
+              <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white">  |
+              <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white">  |
+              <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white">  |
+              <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white">  |
+              <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white">  |
+
+- Android Studio | PyCharm | Visual Studio code | Eclipse | Git
 
 
 - 🖥 &nbsp;   <img src="https://aleen42.github.io/badges/src/photoshop.svg">
