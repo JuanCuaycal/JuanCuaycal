@@ -60,7 +60,7 @@ Desarrollador y Diseñador Gráfico apasionado por combinar estás dos áreas cr
 
 <br>
 
-### Sigueme:
+## Encuéntrame en:
 
 
 <!-- Your badges -->
