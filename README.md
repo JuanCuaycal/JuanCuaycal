@@ -12,7 +12,7 @@ Ingeniero en Computación Gráfica
 
 <h3>🛠Tecnologías</h3>
 
-- 💻 &nbsp;    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"> |
+- 💻 &nbsp;    <img src="https://img.shields.io/badge/Python-14354C?style=fflat&logo=python&logoColor=white"> |
                <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> | 
                <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> | 
                <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> 
