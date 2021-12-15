@@ -36,7 +36,7 @@ Ingeniero en Computación Gráfica
               <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=flat&logo=Eclipse&logoColor=white">  |
               <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white">  
 
-- Android Studio | PyCharm | Visual Studio code | Eclipse | Git
+<!-- - Android Studio | PyCharm | Visual Studio code | Eclipse | Git -->
 
 
 - 🖥 &nbsp;   <img src="https://aleen42.github.io/badges/src/photoshop.svg">
@@ -45,9 +45,11 @@ Ingeniero en Computación Gráfica
               <img src="https://aleen42.github.io/badges/src/after_effects.svg">
               <img src="https://aleen42.github.io/badges/src/premiere.svg">
 
+- 🖥 &nbsp;    <img src="https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white">
+              <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat&logo=unrealengine&logoColor=white">
 
 
-Adobe Xd | Illustrator | Photoshop | OpenShot | Dreamweaver | InDesign | After Effects | Lightroom | Substance Painter 
+<!-- Adobe Xd | Illustrator | Photoshop | OpenShot | Dreamweaver | InDesign | After Effects | Lightroom | Substance Painter  -->
 
 <br>
 
