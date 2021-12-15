@@ -18,8 +18,8 @@ Ingeniero en Computación Gráfica
                <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"> 
                
 - 🌐 &nbsp;    <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white"> 
-               <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">  
-               <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">   
+               <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
+               <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">
                <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E"> 
                
 - 🛢 &nbsp;    <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"> 
@@ -29,13 +29,13 @@ Ingeniero en Computación Gráfica
 
 
 - 🔧 &nbsp;   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white">
-              <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white">  
-              <img src="https://img.shields.io/badge/webstorm-143?style=flat&logo=webstorm&logoColor=white&color=black">  
-              <img src="https://img.shields.io/badge/pycharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green">                
-<!--               <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=fflat&logo=jupyter&logoColor=white">  
-              <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=flat&logo=Eclipse&logoColor=white">  
-              <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flatogo=anaconda&logoColor=white">  
-              <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white">   -->
+              <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white">
+              <img src="https://img.shields.io/badge/webstorm-143?style=flat&logo=webstorm&logoColor=white&color=black">
+              <img src="https://img.shields.io/badge/pycharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green">
+              <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=fflat&logo=jupyter&logoColor=white">
+              <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=flat&logo=Eclipse&logoColor=white">
+              <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flatogo=anaconda&logoColor=white">
+              <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white">  
 
 <!-- - Android Studio | PyCharm | Visual Studio code | Eclipse | Git -->
 
