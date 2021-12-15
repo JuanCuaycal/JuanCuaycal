@@ -25,13 +25,15 @@ Desarrollador y Diseñador Gráfico apasionado por combinar estás dos áreas cr
                <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">
                <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E"> 
                
-<h3>🛢Bases de Datos:</h3>               
-- 🛢 &nbsp;    <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"> 
+<!-- <h3>🛢Bases de Datos:</h3>                -->
+-🛢Bases de Datos:
+- &nbsp;    <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"> 
                <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"> 
                <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase"> 
 <!--                <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> -->
 
-<h3>🔧 Herramientas:</h3> 
+<!-- <h3>🔧 Herramientas:</h3>  -->
+-🔧 Herramientas:
 - 🔧 &nbsp;   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white">
               <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white">
               <img src="https://img.shields.io/badge/webstorm-143?style=flat&logo=webstorm&logoColor=white&color=black">
@@ -43,8 +45,8 @@ Desarrollador y Diseñador Gráfico apasionado por combinar estás dos áreas cr
 
 <!-- - Android Studio | PyCharm | Visual Studio code | Eclipse | Git -->
 
-
-- 🖥 &nbsp;   <img src="https://aleen42.github.io/badges/src/photoshop.svg">
+-🚀 Diseño:
+- &nbsp;   <img src="https://aleen42.github.io/badges/src/photoshop.svg">
               <img src="https://aleen42.github.io/badges/src/illustrator.svg">
               <img src="ttps://aleen42.github.io/badges/src/dreamweaver.svg">
               <img src="https://aleen42.github.io/badges/src/after_effects.svg">
@@ -55,8 +57,8 @@ Desarrollador y Diseñador Gráfico apasionado por combinar estás dos áreas cr
               
               
               
-
-- 🚀 &nbsp;    <img src="https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white">
+-🎮🕹 VideoJuegos:
+-  &nbsp;    <img src="https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white">
               <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat&logo=unrealengine&logoColor=white">
 
 
