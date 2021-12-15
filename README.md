@@ -9,11 +9,8 @@ Desarrollador y Diseñador Gráfico apasionado por combinar estás dos áreas cr
 </p>
 
 
-
-
-<hr><hr>
 <!-- <h3>🛠Lenguajes:</h3> -->
--🛠Lenguajes:              
+## Encuéntrame en:           
 - &nbsp;    <img src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white">
             <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white">
             <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white">
