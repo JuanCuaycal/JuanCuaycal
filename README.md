@@ -1,14 +1,13 @@
 # Hola, Soy Juan 👋🏾 👩🏾‍💻
 
 
-Soy un ingeniero de software y diseñador apasionado por combinar estas dos áreas creativas y tecnologicas para elevar a las personas y construir una comunidad. Algunas tecnologías con las que disfruto trabajar incluyen JavaScript,Java y Python.
+Soy un ingeniero de software y diseñador apasionado por combinar estas dos áreas creativas y tecnologicas para elevar a las personas y construir una comunidad. Algunas tecnologías con las que disfruto trabajar incluyen JavaScript, Java, PHP y Python.
 
 
 <!-- <h3>🛠Lenguajes:</h3> -->
 ## 🛠Lenguajes:          
 - &nbsp;    <img src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white">
             <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white">
-            <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white">
             <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"> 
                
 ## 🌐Web:              
