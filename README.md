@@ -1,7 +1,7 @@
 # Hola, Soy Juan 👋🏾 
 
 
-Soy un ingeniero de software y diseñador apasionado por combinar estas dos áreas creativas y tecnologicas para elevar a las personas y construir una comunidad. Algunas tecnologías con las que disfruto trabajar incluyen JavaScript, Java, PHP y Python.
+Soy un ingeniero de software y diseñador apasionado por combinar estas dos áreas creativas construir nuevas tecnologías. Algunas herramientas con las que disfruto trabajar incluyen JavaScript, Java, PHP y Python.
 
 
 <!-- <h3>🛠Lenguajes:</h3> -->
