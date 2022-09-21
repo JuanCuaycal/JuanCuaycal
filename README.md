@@ -1,6 +1,4 @@
-<p align="center">
-Hola!, mi nombre es Juan 👋
-</p> 
+# Hola, Soy Juan 👋🏾 👩🏾‍💻
 
 <hr>
 
